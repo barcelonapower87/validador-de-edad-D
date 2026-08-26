@@ -1,5 +1,5 @@
-print("hola! bienvenido al validador de mi querido usuario:D")
-print("por favor ingrese su edad para continuar con el programa:P")
+print("hola! bienvenido al validador de edad mi querido usuario:D")
+print("este programa es para verificar si es menor de edad o mayor de edad,por favor ingrese su edad para continuar con el programa:P")
 
 edad = int(input("ingresa tu edad:P "))
 
